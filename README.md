@@ -4,19 +4,19 @@ Aplikacja pozwala również przejrzeć swój i kolegów z pracy kalendarz nieobe
 
 Licznik czasu pracy: 
 
-<img src="https://i.imgur.com/Vg17yCK.gif" alt="operation in app">
+<img src="https://i.imgur.com/Xm7HtUS.gif">
 
 Podsumowanie tygodnia:
 
-<img src="https://i.imgur.com/cwrXMRK.gif" alt="operation in app">
+<img src="https://i.imgur.com/jnoe4yO.gif">
 
 Kalendarz:
 
-<img src="https://i.imgur.com/yBA8wFv.gif" alt="operation in app">
+<img src="https://i.imgur.com/ObSsE5Q.gif">
 
 Formularz logowania:
 
-<img src="https://i.imgur.com/FIoSGuK.gif" alt="operation in app">
+<img src="https://i.imgur.com/ovzzH50.gif">
 
 
 <h4>Uruchomienie projektu</h4>
