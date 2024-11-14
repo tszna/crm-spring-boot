@@ -1,0 +1,12 @@
+CREATE TABLE `time_sessions` (
+    `id` BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    `user_id` BIGINT UNSIGNED NOT NULL,
+    `start_time` TIMESTAMP NULL DEFAULT NULL,
+    `end_time` TIMESTAMP NULL DEFAULT NULL,
+    `elapsed_time` TIME NULL DEFAULT NULL,
+    `full_elapsed_time` TIME NULL DEFAULT NULL,
+    `iteration` TIMESTAMP NULL DEFAULT NULL,
+    `created_at` TIMESTAMP NULL DEFAULT NULL,
+    `updated_at` TIMESTAMP NULL DEFAULT NULL,
+    CONSTRAINT `fk_user_id` FOREIGN KEY (`user_id`) REFERENCES `users`(`id`) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
